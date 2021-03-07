@@ -1,0 +1,21 @@
+body {
+    background: #000000;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Varela Round', sans-serif;
+    height: 100%;
+    margin: 0px;
+}
+
+canvas {
+    height: 100vh;
+    z-index: -10;
+    position: fixed;
+    top: 0px;
+}
+
+label{
+  color: #ffffff;
+  font-size: 70px;
+  padding-left: 540px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
